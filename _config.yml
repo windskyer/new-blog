@@ -109,7 +109,7 @@ deploy:
   root: /data/web_blog/blog/web
   port: 27101
   delete: true
-  verbose: true
+  verbose: false
   ignore_errors: false
 
 
@@ -139,3 +139,8 @@ feed:
   path: atom.xml
   limit: 20
 
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
