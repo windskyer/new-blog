@@ -12,7 +12,7 @@
     "version": "7.0.0"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
+    "hexo": "^7.1.1",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-deployer-rsync": "^3.0.0",
     "hexo-generator-archive": "^2.0.0",
